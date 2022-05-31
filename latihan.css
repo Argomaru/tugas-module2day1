@@ -1,0 +1,57 @@
+img {
+  width: 300px;
+}
+
+span {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.product-container {
+  display: inline-block;
+  width: 500px;
+}
+
+.product-title {
+  font-size: 34px;
+}
+
+.product-sub {
+  font-size: 36px;
+}
+
+.product-price {
+  font-size: 18px;
+}
+
+.product-main {
+  width: 300px;
+}
+
+.product-size {
+  margin-top: 20px;
+}
+
+.size {
+  font-size: 24px;
+}
+
+.product-materials {
+  text-align: right;
+  font-size: 12px;
+}
+
+.button-cart {
+  background-color: black;
+  color: white;
+  width: 100px;
+  height: 50px;
+}
+
+.button-cart:hover {
+  background-color: white;
+  color: black;
+}
+
+.img2 {
+  width: 500px;
+}
